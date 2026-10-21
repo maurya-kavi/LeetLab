@@ -1,0 +1,12 @@
+{
+  "name": "leetlab",
+  "version": "1.0.0",
+  "description": "LeetLab is a full-stack coding platform inspired by LeetCode. It allows users to solve algorithmic problems, compile and run code in multiple languages, track their submissions, and create custom playlist, Admin can create or add new problem and manages all the problem on the platform.",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
